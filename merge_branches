@@ -1,9 +1,9 @@
-git checkout main
-Switched to branch 'main'
+C:\Users\ABHIMAAN C S\OneDrive\Desktop\github-final-project>git checkout main
+Already on 'main'
 Your branch is up to date with 'origin/main'.
 
-git merge bug-fix-typo-2
-Updating ad2b4e3..01be2f6
+C:\Users\ABHIMAAN C S\OneDrive\Desktop\github-final-project>git merge bug-fix-typo
+Updating 925b8d6..27f971e
 Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
